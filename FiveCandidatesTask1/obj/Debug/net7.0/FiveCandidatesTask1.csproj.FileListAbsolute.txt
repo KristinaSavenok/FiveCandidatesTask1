@@ -1,0 +1,15 @@
+/Users/kristinasavenok/Projects/FiveCandidatesTask1/FiveCandidatesTask1/obj/Debug/net7.0/FiveCandidatesTask1.csproj.AssemblyReference.cache
+/Users/kristinasavenok/Projects/FiveCandidatesTask1/FiveCandidatesTask1/obj/Debug/net7.0/FiveCandidatesTask1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinasavenok/Projects/FiveCandidatesTask1/FiveCandidatesTask1/obj/Debug/net7.0/FiveCandidatesTask1.AssemblyInfoInputs.cache
+/Users/kristinasavenok/Projects/FiveCandidatesTask1/FiveCandidatesTask1/obj/Debug/net7.0/FiveCandidatesTask1.AssemblyInfo.cs
+/Users/kristinasavenok/Projects/FiveCandidatesTask1/FiveCandidatesTask1/obj/Debug/net7.0/FiveCandidatesTask1.csproj.CoreCompileInputs.cache
+/Users/kristinasavenok/Projects/FiveCandidatesTask1/FiveCandidatesTask1/bin/Debug/net7.0/FiveCandidatesTask1
+/Users/kristinasavenok/Projects/FiveCandidatesTask1/FiveCandidatesTask1/bin/Debug/net7.0/FiveCandidatesTask1.deps.json
+/Users/kristinasavenok/Projects/FiveCandidatesTask1/FiveCandidatesTask1/bin/Debug/net7.0/FiveCandidatesTask1.runtimeconfig.json
+/Users/kristinasavenok/Projects/FiveCandidatesTask1/FiveCandidatesTask1/bin/Debug/net7.0/FiveCandidatesTask1.dll
+/Users/kristinasavenok/Projects/FiveCandidatesTask1/FiveCandidatesTask1/bin/Debug/net7.0/FiveCandidatesTask1.pdb
+/Users/kristinasavenok/Projects/FiveCandidatesTask1/FiveCandidatesTask1/obj/Debug/net7.0/FiveCandidatesTask1.dll
+/Users/kristinasavenok/Projects/FiveCandidatesTask1/FiveCandidatesTask1/obj/Debug/net7.0/refint/FiveCandidatesTask1.dll
+/Users/kristinasavenok/Projects/FiveCandidatesTask1/FiveCandidatesTask1/obj/Debug/net7.0/FiveCandidatesTask1.pdb
+/Users/kristinasavenok/Projects/FiveCandidatesTask1/FiveCandidatesTask1/obj/Debug/net7.0/FiveCandidatesTask1.genruntimeconfig.cache
+/Users/kristinasavenok/Projects/FiveCandidatesTask1/FiveCandidatesTask1/obj/Debug/net7.0/ref/FiveCandidatesTask1.dll
