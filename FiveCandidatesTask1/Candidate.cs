@@ -1,5 +1,4 @@
-﻿using System;
-namespace FiveCandidatesTask1
+﻿namespace FiveCandidatesTask1
 {
 	public class Candidate
 	{
